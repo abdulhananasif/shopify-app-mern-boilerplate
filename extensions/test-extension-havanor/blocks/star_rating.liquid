@@ -1,0 +1,21 @@
+{{app.metafields | json}}
+MYAPPJSON
+{% schema %}
+{
+  "name": "Havanor Test Star Rating",
+  "target": "head",
+  "settings": [
+    {
+      "type": "color",
+      "id": "colour",
+      "label": "Star Colour",
+      "default": "#ff0000"
+    },{
+  "type": "url",
+  "id": "button_link",
+  "label": "Button link"
+}
+  ]
+}
+{% endschema %}
+
