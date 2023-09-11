@@ -14,7 +14,7 @@
   "dependencies": {
     "@shopify/app": "^3.0.0",
     "@shopify/cli": "^3.0.0",
-    "@shopify/shopify-app-session-storage-mongodb": "^1.0.13",
+    "@shopify/shopify-app-session-storage-mongodb": "^1.0.14",
     "@vercel/ruby": "^2.0.0",
     "dotenv": "^16.3.1",
     "mongodb": "^5.8.0"
